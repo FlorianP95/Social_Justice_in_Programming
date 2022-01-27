@@ -1,2 +1,7 @@
 # Social_Justice_in_Programming
-This project examines how equal opportunities are to be successful as a developer and how this has changed in 2021 compared to 2011.
+This project examines how equal opportunities are to be successful as a developer based on the stackoverflow survey from 2017.
+
+
+
+# Data Source
+https://insights.stackoverflow.com/survey
