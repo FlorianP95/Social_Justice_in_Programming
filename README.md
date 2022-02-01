@@ -62,6 +62,8 @@ To answer Q3, it is important to note that it is extremely important to be open 
 In addition, a clear opinion can help to maximize the salary. It should be taken into account that open people are happier.
 
 
+For more information check out: https://medium.com/@florianpue/an-inconvenient-truth-about-social-justice-in-programming-f78fb17c614b
+
 ## Author
 Author: Florian Pütz, florian.puetz@dlr.de
 
